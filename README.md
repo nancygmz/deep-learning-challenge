@@ -18,6 +18,7 @@ Using Google Colab, I read in the charity_data.csv to a Pandas DataFrame. I dete
   
 ## Compile, Train and Evaluate the Model
 After processing the data I created a neural network model by assigning the number of input features and nodes for each layer using TensorFlow and Keras. I created the first hidden layer, added a second hidden layer and an output layer.
+
 <img width="500" src="https://github.com/nancygmz/deep-learning-challenge/blob/main/images/Screenshot%202023-06-07%20193430.png">
 
 ## Summary
